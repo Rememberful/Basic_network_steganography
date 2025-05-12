@@ -6,7 +6,6 @@ A Network Steganography tool that hides and exfiltrates sensitive data within re
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Network Steganography: Enhancing Data Exfiltration with Reliable Feedback</title>
 </head>
 <body>
 
@@ -41,7 +40,7 @@ A Network Steganography tool that hides and exfiltrates sensitive data within re
 
 <h2>Installation</h2>
 <p>Clone the repository:</p>
-<pre><code>git clone https://github.com/yourusername/networkstego.git
+<pre><code>git clone https://github.com/Rememberful/Basic_network_steganography.git
 cd networkstego
 </code></pre>
 <p>Install the required dependencies:</p>
@@ -73,9 +72,6 @@ cd networkstego
 
 <h2>Contributing</h2>
 <p>Contributions are welcome! Feel free to fork the repository, make changes, and create a pull request.</p>
-
-<h2>License</h2>
-<p>Distributed under the MIT License. See <code>LICENSE</code> for more information.</p>
 
 <h2>Disclaimer</h2>
 <p>This tool is designed for <strong>educational purposes only</strong>. Unauthorized use of steganography for illegal activities such as <strong>malware distribution</strong> or <strong>data exfiltration</strong> is prohibited. Always ensure you have the appropriate permissions before using this tool in any environment.</p>
