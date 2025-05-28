@@ -77,7 +77,7 @@ cd networkstego
 <p>This tool is designed for <strong>educational purposes only</strong>. Unauthorized use of steganography for illegal activities such as <strong>malware distribution</strong> or <strong>data exfiltration</strong> is prohibited. Always ensure you have the appropriate permissions before using this tool in any environment.</p>
 
 <h2>Contact</h2>
-<p>For questions or further inquiries, please contact <a href="mailto:your-email@example.com">your-email@example.com</a>.</p>
+<p>For questions or further inquiries, please contact <a href="mailto:adii.utsav@gmail.com">adii.utsav@gmail.com</a>.</p>
 
 </body>
 </html>
